@@ -48,7 +48,8 @@ Just for fun Cycle with 32 nodes - no results:
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/0b2238ab-b6fe-404d-8412-c3736833d0e3)
 
-We are very close to the real-time results: 
+This modeling can be used in different fields and give some additional insights, for example: 
+
 1. The initial graph has a huge influence on how fast the problem will be solved. Some things happen in social networks, where structure has a strong influence on behavior. For instance, your circle of friends (your immediate network structure) greatly influences your behavior, opinions, and even your health habits. 
 2. It demonstrates that if the system becomes more complex it more hard to ChatGPT to solve it. The same thing happens with people, it's more had to arrange a large number of people in some structure or way of thinking (for example theater). More information also didn't solve the problem. 
 3. One node decision can have an impact on the all the system. For example Economic Networks: In economics, the network of trade between countries influences global economic dynamics. For instance, a disturbance in one part of the network (like an economic crisis in one country) can have ripple effects throughout the network (another example is Ecological Networks).
