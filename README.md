@@ -10,11 +10,11 @@ Defined graph:
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/dc9005c5-e86a-4799-a3a8-529fb7ae9700)
 
-Desired result:
+Result:
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/d2b7f14a-f90e-45d2-bc95-4dd735a45f96)
 
-Result:
+Simulation:
 
 ![6_nodes](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/b7cf573b-5cca-4a16-8d41-9936a0bc4d5b)
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/c31a2de4-0942-4e3c-b57c-9f373dc1bea9)
@@ -25,11 +25,11 @@ Defined graph:
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/8494e96e-69e1-4391-96fb-dfbe5f5157f3)
 
-Desired result:
+Result:
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/e09a4c5b-6068-4204-8102-6e5063903a16)
 
-Result:
+Simulation:
 ![rabdom_8](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/b4cf0863-e6bd-49a3-bd75-f72f27e47467)
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/39b4a2f7-de63-4209-b9eb-931d73047bc1)
 
@@ -38,6 +38,7 @@ Cycle with 16 nodes - no results - low information:
 Defined graph: 
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/bc63dfbd-bb7b-49a8-946e-e3651aea8411)
+
 Results: 
 
 ![filename_1](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/419375fe-4709-4983-90d1-f829826858d0)
