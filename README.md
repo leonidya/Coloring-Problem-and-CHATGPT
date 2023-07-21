@@ -9,16 +9,19 @@ In another light, could these ChatGPT agents be leveraged to establish a success
 But let's start with a more simple problem, the coloring problem.
 
 ```diff
- Coloring Problem 🟢🔵
+🟢🔵 Coloring Problem 🟢🔵
 ```
-Coloring Problem - In the field of computer science and mathematics, the coloring problem is a type of graph problem. It's a way of assigning colors to certain elements of a larger entity so that no two adjacent elements share the same color. It can be used in: Traffic Light Synchronization, Education - Timetabling, Marketing - Ad Scheduling, Urban Planning, Team Formation, Vaccination Strategy, Recycling Program, Coloring Maps, etc. Actually, we use it on a daily basis, for example, phone ringtone that differs from those of family members, friends, and colleagues. In the context of a disease outbreak, you might want to ensure the effective distribution of limited vaccine supplies. Let's say you've categorized people into high-risk (red), medium-risk (green), and low-risk (blue) based on factors such as age, medical history, occupation, etc. You aim to distribute the vaccines in such a way that no two high-risk individuals are adjacent to the social network, hence minimizing the potential for the disease to spread among them
+Coloring Problem - In the field of computer science and mathematics, is a type of graph problem. It's a way of assigning colors to certain elements of a larger entity so that no two adjacent elements share the same color. It can be used in: Traffic Light Synchronization, Education - Timetabling, Marketing - Ad Scheduling, Urban Planning, Team Formation, Vaccination Strategy, Recycling Program, Coloring Maps, etc. Actually, we use it on a daily basis, for example, phone ringtone that differs from those of family members, friends, and colleagues. In the context of a disease outbreak, you might want to ensure the effective distribution of limited vaccine supplies. Let's say you've categorized people into high-risk (red), medium-risk (green), and low-risk (blue) based on factors such as age, medical history, occupation, etc. You aim to distribute the vaccines in such a way that no two high-risk individuals are adjacent to the social network, hence minimizing the potential for the disease to spread among them. 
 
+Experiment:
+```diff
+ 🟩 Experiment 🟩 
+```
+The only thing the agent of ChatGpt should do is choose a color that is different from their friends (there are only two colors - green or blue). For example, if your friend from the right is blue and your friend from the left is blue, and you are also blue, choose green. If you can't decide still chose green or blue. Two variants of information provision exist in this scenario: minimal information (restricted to the colors chosen by the friends to the left and right), and extensive information. So, Can ChatGPT agents solve the problems, when they are not related to each other and each of them will receive a specific part of the information to solve it? 
 
-The only thing the agent of ChatGpt should do is choose a color that is different from their friends (there are only two colors - green or blue). For example, if your friend from the right is blue and your friend from the left is blue, and you are also blue, choose green. If you can't decide still chose green or blue. 
-
-Can ChatGPT agents solve problems, when they are not related to each other and each of them will receive a specific part of the information to solve this problem? L
-
-Cycle with 6 nodes: 
+```diff
+ 🟩 6 nodes 🟩 
+```
 
 Defined graph:
 
@@ -33,7 +36,9 @@ Simulation:
 ![6_nodes](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/b7cf573b-5cca-4a16-8d41-9936a0bc4d5b)
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/c31a2de4-0942-4e3c-b57c-9f373dc1bea9)
 
-Cycle with 8 nodes: 
+```diff
+ 🟩 8 nodes 🟩 
+```
 
 Defined graph:
 
@@ -62,13 +67,13 @@ Just for fun Cycle with 32 nodes - no results:
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/0b2238ab-b6fe-404d-8412-c3736833d0e3)
 
-This modeling can be used in different fields and give some additional insights, for example: 
+Some insights: 
+1. First, this simulation provides some human behavior insights - agents behave like humans - think about it, what if I want to order 32 people in a certain way, will it be easy? Especially when I'm only looking at a friend from the left and right. In addition, it is enough for one member to change his place, it destroys the whole order and everything starts again. Some think happen in Economic Networks: In economics, the network of trade between countries influences global economic dynamics. For instance, a disturbance in one part of the network (like an economic crisis in one country) can have ripple effects throughout the network (another example is Ecological Networks).
+2. The initial graph has a huge influence on how fast the problem will be solved. Some things happen in social networks, where structure has a strong influence on behavior. For instance, your circle of friends (your immediate network structure) greatly influences your behavior, opinions, and even your health habits.
+3. It demonstrates that if the system becomes more complex it more hard to ChatGPT to solve it. The same thing happens with people, it's more had to arrange a large number of people in some structure or way of thinking. More information also didn't solve the problem. 
 
-1. The initial graph has a huge influence on how fast the problem will be solved. Some things happen in social networks, where structure has a strong influence on behavior. For instance, your circle of friends (your immediate network structure) greatly influences your behavior, opinions, and even your health habits. 
-2. It demonstrates that if the system becomes more complex it more hard to ChatGPT to solve it. The same thing happens with people, it's more had to arrange a large number of people in some structure or way of thinking (for example theater). More information also didn't solve the problem. 
-3. One node decision can have an impact on the all the system. For example Economic Networks: In economics, the network of trade between countries influences global economic dynamics. For instance, a disturbance in one part of the network (like an economic crisis in one country) can have ripple effects throughout the network (another example is Ecological Networks).
 
-Other insights in progress.... 
+So can ChatGPT solve some more sophisticated problems? WELL... first I used ChatGPT 3.5 and not ChatGPT 4.0 version (You can receive an API only as trial and not everyone). Second is there is some problem with the temperature of the model, I tried to solved it by  
 
 
 
