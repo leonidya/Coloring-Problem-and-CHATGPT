@@ -43,9 +43,7 @@ Simulation:
 Defined graph:
 
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/8494e96e-69e1-4391-96fb-dfbe5f5157f3)
-
 Result:
-
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/e09a4c5b-6068-4204-8102-6e5063903a16)
 
 Simulation:
