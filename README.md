@@ -24,11 +24,8 @@ The only thing the agent of ChatGpt should do is choose a color that is differen
 ```
 
 Defined graph:
-
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/dc9005c5-e86a-4799-a3a8-529fb7ae9700)
-
 Result:
-
 ![image](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/d2b7f14a-f90e-45d2-bc95-4dd735a45f96)
 
 Simulation:
