@@ -9,11 +9,7 @@ In another light, could these ChatGPT agents be leveraged to establish a success
 But let's start with a more simple problem, the coloring problem.
 
 ```diff
-- text in red
 + Coloring Problem
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 ```
 Coloring Problem - In the field of computer science and mathematics, the coloring problem is a type of graph problem. It's a way of assigning colors to certain elements of a larger entity so that no two adjacent elements share the same color. It can be used in: Traffic Light Synchronization, Education - Timetabling, Marketing - Ad Scheduling, Urban Planning, Team Formation, Vaccination Strategy, Recycling Program, Coloring Maps, etc. Actually, we use it on a daily basis, for example, phone ringtone that differs from those of family members, friends, and colleagues. In the context of a disease outbreak, you might want to ensure the effective distribution of limited vaccine supplies. Let's say you've categorized people into high-risk (red), medium-risk (green), and low-risk (blue) based on factors such as age, medical history, occupation, etc. You aim to distribute the vaccines in such a way that no two high-risk individuals are adjacent to the social network, hence minimizing the potential for the disease to spread among them
 
