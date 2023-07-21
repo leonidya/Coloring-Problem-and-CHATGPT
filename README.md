@@ -89,3 +89,5 @@ To summarize, while the current version of ChatGPT agents shows promise in handl
 
 .
 ![main-qimg-9935661f2ef938ba6a60d4e0c4447a09-lq](https://github.com/leonidya/Coloring-Problem-and-CHATGPT/assets/53173112/c58b6e4d-3a4e-41ae-829a-c7a854317919)
+
+Still not there ;)
