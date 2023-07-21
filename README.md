@@ -1,4 +1,5 @@
-# Coloring-Problem-and-CHATGPT
+**Coloring-Problem-and-CHATGPT**
+
 I wanted to express an idea stimulated by an experimental study titled "Behavioral Experiments on a Network Formation Game" conducted by researchers Michael Kearns, Siddharth Suri, and Nick Montfort (https://pubmed.ncbi.nlm.nih.gov/16902134). Fundamentally, the inquiry is whether ChatGPT agents can be utilized to address and resolve real-world complications through self-interaction. This hypothetical scenario would entail the delegation of roles to each AI agent, reminiscent of experts in a brainstorming session, each providing insights based on their assigned expertise.
 
 For instance, let's consider an investigation into the unfortunate explosion of the SpaceX Starship. The AI agents would be assigned roles akin to those of Aerospace Engineers, Material Scientists, Mechanical Engineers, Avionics Engineers, and Meteorologists, among others. Each agent, equipped with a fragment of relevant information, would interact with its counterparts, striving to deduce the cause of the mishap. Would such a collaboration yield the desired result?
@@ -6,8 +7,14 @@ For instance, let's consider an investigation into the unfortunate explosion of 
 In another light, could these ChatGPT agents be leveraged to establish a successful startup? This would imply assigning the AI agents roles common to a startup setting, such as Founder/CEO, CTO or Lead Developer, Sales/Business Development, Marketing Specialist, Finance Manager or CFO, and so on. Through consistent interaction, could the agents foster a startup that is capable of thriving in the real world?
 
 But let's start with a more simple problem, the coloring problem.
-**Coloring Problem**
-<p style="color:red">Coloring Problem</p>
+
+```diff
+- text in red
++ Coloring Problem
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 Coloring Problem - In the field of computer science and mathematics, the coloring problem is a type of graph problem. It's a way of assigning colors to certain elements of a larger entity so that no two adjacent elements share the same color. It can be used in: Traffic Light Synchronization, Education - Timetabling, Marketing - Ad Scheduling, Urban Planning, Team Formation, Vaccination Strategy, Recycling Program, Coloring Maps, etc. Actually, we use it on a daily basis, for example, phone ringtone that differs from those of family members, friends, and colleagues. In the context of a disease outbreak, you might want to ensure the effective distribution of limited vaccine supplies. Let's say you've categorized people into high-risk (red), medium-risk (green), and low-risk (blue) based on factors such as age, medical history, occupation, etc. You aim to distribute the vaccines in such a way that no two high-risk individuals are adjacent to the social network, hence minimizing the potential for the disease to spread among them
 
 
